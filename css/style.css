@@ -10,6 +10,16 @@
     background-color: #1abc9c;
 }
 
-.jumbotron > *{
-    border: 2px dashed brown;
+section{
+    min-height: 600px;
+    border: 2px dashed violet;
 }
+
+.row{
+    border: 2px dashed blue;
+}
+
+[class^="col"] {
+    border: 2px dashed black;
+}
+  
