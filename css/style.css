@@ -11,11 +11,14 @@
 
 .jumbotron{
     background-color: #1abc9c;
-    min-height: 600px;
 }
 
 .jumbotron .border{
     border: 2px solid white;
+}
+
+.jumbotron img{
+    width: 100%;
 }
 
 section{
