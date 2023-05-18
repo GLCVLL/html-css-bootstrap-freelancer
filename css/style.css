@@ -47,3 +47,16 @@
 #contacts ::placeholder{
     color: black;
 }
+
+/* INFO SECTION */
+
+#info{
+    background-color: #3a546d;
+}
+
+/* Footer */
+
+footer{
+    height: 80px;
+    background-color: #2c3e50;
+}
