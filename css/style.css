@@ -24,4 +24,9 @@
 .jumbotron img{
     width: 100%;
 }
-  
+
+/* ABOUT SECTION */
+
+#about{
+    background-color: #1abc9c;
+}
