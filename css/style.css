@@ -11,6 +11,30 @@
     padding: 0 10px;
 }
 
+/* DIVIDER */
+
+.fa-star{
+    font-size: 24px;
+    transform: translateY(-2px);
+}
+
+.divider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divider::before,
+.divider::after{
+    content: "";
+    display: inline-block;
+    background-color: black;
+    height: 2px;
+    margin: 0 20px;
+    width: 100px;
+}
+
+
 /*JUMBOTRON*/
 
 .jumbotron{
